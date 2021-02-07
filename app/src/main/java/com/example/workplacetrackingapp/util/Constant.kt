@@ -11,7 +11,7 @@ class Constant {
         const val RC_SIGN_IN = 120
 
         const val BASE_URL = "https://fcm.googleapis.com"
-        const val SERVER_KEY = "AAAAx47ldqY:APA91bGfKoSOPMWdos-XXZlJX1QaGbLIro54eZi4mWt6dk08YQ8jtAdxvBkL1gPxsjyJOrypcz8FEWex1TUv-N5eTnEKH4msiNbHYKpJ0LyABm2-5J29O8eh-a916bFu1VO0p_yXKWQj"
+        const val SERVER_KEY = ""
         const val CONTENT_TYPE = "application/json"
     }
 }
